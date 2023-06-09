@@ -1,1 +1,1 @@
-# ProjetoPoo
+O projeto enviado se trata de um sistema de supermercado. O programa tem muitas funcionalidades, como por exemplo: guardar dados de dois tipos de usuário(pessoas físicas e pessoas jurídicas) e dependendo do tipo de Usuário o login será feito com CPF ou CNPJ, após a realização do login surgem outras 7 opções que podem ser acessadas utilizando os atalhos que a cada um foi atribuído. 
